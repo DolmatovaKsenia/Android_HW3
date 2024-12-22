@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="back_button_text">Back</string>
+    <string name="recipes">Recipes</string>
+</resources>
